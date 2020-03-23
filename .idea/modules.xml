@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/beta 2.iml" filepath="$PROJECT_DIR$/beta 2.iml" group="beta 2" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" group="beta 2/library" />
-      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" group="beta 2/sample" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" group="messenger/library" />
+      <module fileurl="file://$PROJECT_DIR$/messenger.iml" filepath="$PROJECT_DIR$/messenger.iml" group="messenger" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" group="messenger/sample" />
     </modules>
   </component>
 </project>

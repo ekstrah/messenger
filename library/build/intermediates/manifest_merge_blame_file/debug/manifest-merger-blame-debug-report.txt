@@ -4,31 +4,31 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="14"
-6-->/Users/jeyongahn/Desktop/beta 2/library/src/main/AndroidManifest.xml
+6-->C:\Users\dongh\Desktop\messenger\library\src\main\AndroidManifest.xml
 7        android:targetSdkVersion="25" />
-7-->/Users/jeyongahn/Desktop/beta 2/library/src/main/AndroidManifest.xml
+7-->C:\Users\dongh\Desktop\messenger\library\src\main\AndroidManifest.xml
 8
 9    <application>
-9-->/Users/jeyongahn/Desktop/beta 2/library/src/main/AndroidManifest.xml:6:5-16:19
+9-->C:\Users\dongh\Desktop\messenger\library\src\main\AndroidManifest.xml:6:5-16:19
 10        <provider
-10-->/Users/jeyongahn/Desktop/beta 2/library/src/main/AndroidManifest.xml:8:9-12:46
+10-->C:\Users\dongh\Desktop\messenger\library\src\main\AndroidManifest.xml:8:9-12:46
 11            android:name="com.klinker.android.send_message.MmsFileProvider"
-11-->/Users/jeyongahn/Desktop/beta 2/library/src/main/AndroidManifest.xml:8:19-50
-12            android:authorities="dollar_openBracket_applicationId_closeBracket.MmsFileProvider"
-12-->/Users/jeyongahn/Desktop/beta 2/library/src/main/AndroidManifest.xml:9:19-73
+11-->C:\Users\dongh\Desktop\messenger\library\src\main\AndroidManifest.xml:8:19-50
+12            android:authorities="${applicationId}.MmsFileProvider"
+12-->C:\Users\dongh\Desktop\messenger\library\src\main\AndroidManifest.xml:9:19-73
 13            android:enabled="true"
-13-->/Users/jeyongahn/Desktop/beta 2/library/src/main/AndroidManifest.xml:10:19-41
+13-->C:\Users\dongh\Desktop\messenger\library\src\main\AndroidManifest.xml:10:19-41
 14            android:exported="false"
-14-->/Users/jeyongahn/Desktop/beta 2/library/src/main/AndroidManifest.xml:12:19-43
+14-->C:\Users\dongh\Desktop\messenger\library\src\main\AndroidManifest.xml:12:19-43
 15            android:grantUriPermissions="true" />
-15-->/Users/jeyongahn/Desktop/beta 2/library/src/main/AndroidManifest.xml:11:19-53
+15-->C:\Users\dongh\Desktop\messenger\library\src\main\AndroidManifest.xml:11:19-53
 16
 17        <uses-library
-17-->/Users/jeyongahn/Desktop/beta 2/library/src/main/AndroidManifest.xml:14:9-87
+17-->C:\Users\dongh\Desktop\messenger\library\src\main\AndroidManifest.xml:14:9-87
 18            android:name="org.apache.http.legacy"
-18-->/Users/jeyongahn/Desktop/beta 2/library/src/main/AndroidManifest.xml:14:23-60
+18-->C:\Users\dongh\Desktop\messenger\library\src\main\AndroidManifest.xml:14:23-60
 19            android:required="false" />
-19-->/Users/jeyongahn/Desktop/beta 2/library/src/main/AndroidManifest.xml:14:61-85
+19-->C:\Users\dongh\Desktop\messenger\library\src\main\AndroidManifest.xml:14:61-85
 20    </application>
 21
 22</manifest>

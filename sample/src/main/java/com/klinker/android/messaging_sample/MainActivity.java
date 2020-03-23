@@ -68,7 +68,9 @@ public class MainActivity extends Activity {
     private ImageView imageToSend;
     private Button sendButton;
     private Button loadButton;
-
+    public int index;
+    public int contact_size;
+    public String[] lines;
 
     private RecyclerView log;
 
@@ -196,11 +198,9 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v) {
                 TextView txtView = (TextView)findViewById(R.id.hellotxt);
-
+                TextView conView = (TextView)findViewById(R.id.contact_plus);
                 InputStream inputStream = getResources().openRawResource(R.raw.testy);
-
                 ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
-
                 int i;
                 try {
                     i = inputStream.read();
@@ -211,10 +211,12 @@ public class MainActivity extends Activity {
                     }
                     inputStream.close();
                 } catch (IOException e) {
-                    // TODO Auto-generated catch block
                     e.printStackTrace();
                 }
                 txtView.setText(byteArrayOutputStream.toString());
+                lines = byteArrayOutputStream.toString().split("\\r?\\n");
+                contact_size = lines.length;
+                conView.setText(String.valueOf("Contact Length: " + contact_size));
             }
         });
 
@@ -262,15 +264,13 @@ public class MainActivity extends Activity {
                 sendSettings.setUseSystemSending(true);
 
                 Transaction transaction = new Transaction(MainActivity.this, sendSettings);
-                Message message = new Message(messageField.getText().toString(), contacty, "김영문입니다");
+                Message message = new Message(messageField.getText().toString(), contacty, "김동호입니다");
 
                 if (imageToSend.isEnabled()) {
                     Bitmap bitmap1 = BitmapFactory.decodeResource(getResources(),R.drawable.android1);//assign your bitmap;
                     Bitmap bitmap2 = BitmapFactory.decodeResource(getResources(),R.drawable.android2);//assign your bitmap;
                     Bitmap bitmap3 = BitmapFactory.decodeResource(getResources(), R.drawable.android3);
                     Bitmap[] arrayOfBitmap = {bitmap1, bitmap2, bitmap3};
-
-
 //                    message.setImage(BitmapFactory.decodeResource(getResources(), R.drawable.android));
                     message.setImages(arrayOfBitmap);
                 }
