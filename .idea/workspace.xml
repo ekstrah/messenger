@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidConfiguredLogFilters">
+    <filters>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="mySuperTag" />
+        <option name="name" value="OnlyAvailable" />
+        <option name="packageNamePattern" value="" />
+        <option name="pid" value="" />
+      </filter>
+      <filter>
+        <option name="logLevel" value="verbose" />
+        <option name="logMessagePattern" value="" />
+        <option name="logTagPattern" value="olleh" />
+        <option name="name" value="olleh" />
+        <option name="packageNamePattern" value="" />
+        <option name="pid" value="" />
+      </filter>
+    </filters>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="Nexus 7" />
+        <device id="4.7in WXGA" />
+        <device id="10.1in WXGA (Tablet)" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="OnlyAvailable" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fba8ab77-7b9c-4786-9552-cbca500aab57" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/library/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/library/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/annotation/SdkConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/annotation/SdkConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/database/sqlite/SqliteWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/database/sqlite/SqliteWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/DhcpInfoInternal.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/DhcpInfoInternal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/IConnectivityManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/IConnectivityManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/INetworkPolicyListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/INetworkPolicyListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/INetworkPolicyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/INetworkPolicyManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/LinkAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/LinkAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/LinkCapabilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/LinkCapabilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/LinkProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/LinkProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkIdentity.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkIdentity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkPolicyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkPolicyManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkQuotaInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkQuotaInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkState.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkUtilsHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/NetworkUtilsHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/ProxyProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/ProxyProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/net/RouteInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/net/RouteInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/android/provider/Downloads.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/android/provider/Downloads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/i18n/phonenumbers/NumberParseException.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/i18n/phonenumbers/NumberParseException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/i18n/phonenumbers/PhoneNumberUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/i18n/phonenumbers/PhoneNumberUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/i18n/phonenumbers/Phonenumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/i18n/phonenumbers/Phonenumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/internal/annotations/VisibleForTesting.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/internal/annotations/VisibleForTesting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/internal/net/LegacyVpnInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/internal/net/LegacyVpnInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/internal/net/VpnConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/internal/net/VpnConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/internal/net/VpnProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/internal/net/VpnProfile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/internal/telephony/EncodeException.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/internal/telephony/EncodeException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/internal/telephony/GsmAlphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/internal/telephony/GsmAlphabet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/internal/telephony/IccUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/internal/telephony/IccUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/internal/telephony/SmsConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/internal/telephony/SmsConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/internal/telephony/TelephonyProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/internal/telephony/TelephonyProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/internal/util/ArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/internal/util/ArrayUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/internal/util/Objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/internal/util/Objects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/internal/util/Preconditions.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/internal/util/Preconditions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/MmsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/MmsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/AttrImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/AttrImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/DocumentImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/DocumentImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/ElementImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/ElementImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/NamedNodeMapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/NamedNodeMapImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/NodeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/NodeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/NodeListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/NodeListImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/events/EventImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/events/EventImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/events/EventTargetImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/events/EventTargetImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/ElementParallelTimeContainerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/ElementParallelTimeContainerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/ElementSequentialTimeContainerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/ElementSequentialTimeContainerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/ElementTimeContainerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/ElementTimeContainerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/ElementTimeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/ElementTimeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilDocumentImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilDocumentImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilElementImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilElementImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilLayoutElementImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilLayoutElementImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilMediaElementImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilMediaElementImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilParElementImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilParElementImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilRefElementImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilRefElementImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilRegionElementImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilRegionElementImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilRegionMediaElementImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilRegionMediaElementImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilRootLayoutElementImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/SmilRootLayoutElementImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/TimeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/TimeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/TimeListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/TimeListImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/parser/SmilContentHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/parser/SmilContentHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/parser/SmilXmlParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/parser/SmilXmlParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/parser/SmilXmlSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/dom/smil/parser/SmilXmlSerializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/layout/HVGALayoutParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/layout/HVGALayoutParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/layout/LayoutManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/layout/LayoutManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/layout/LayoutParameters.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/layout/LayoutParameters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/logs/LogTag.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/logs/LogTag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/ApnSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/ApnSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/DownloadRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/DownloadRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsConfigManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsConfigManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsConfigXmlProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsConfigXmlProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsHttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsHttpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsNetworkManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsNetworkManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsRequestManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/MmsRequestManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/PhoneUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/PhoneUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/SendRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/SendRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/SubscriptionIdChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/SubscriptionIdChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/SystemPropertiesProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/SystemPropertiesProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/exception/ApnException.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/exception/ApnException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/exception/MmsHttpException.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/exception/MmsHttpException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/exception/MmsNetworkException.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/service_alt/exception/MmsNetworkException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/AbstractRetryScheme.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/AbstractRetryScheme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/DefaultRetryScheme.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/DefaultRetryScheme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/DownloadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/DownloadManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/HttpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/HttpUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/MessageSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/MessageSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/MessageStatusReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/MessageStatusReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/MessageStatusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/MessageStatusService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/MmsMessageSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/MmsMessageSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/MmsPushOutboxMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/MmsPushOutboxMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/MmsSystemEventReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/MmsSystemEventReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/NotificationTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/NotificationTransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/Observable.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/Observable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/ProgressCallbackEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/ProgressCallbackEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/PushReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/PushReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/ReadRecTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/ReadRecTransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/RetrieveTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/RetrieveTransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/RetryScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/RetryScheduler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/SendTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/SendTransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/TransactionBundle.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/TransactionBundle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/TransactionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/TransactionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/TransactionSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/TransactionSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/TransactionState.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/transaction/TransactionState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/util/DownloadManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/util/DownloadManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/util/ExternalLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/util/ExternalLogger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/util/RateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/util/RateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/android/mms/util/SendingProgressTokenManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/android/mms/util/SendingProgressTokenManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/collect/Sets.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/collect/Sets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/APN.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/APN.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/APNHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/APNHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/ContentType.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/ContentType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/InvalidHeaderValueException.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/InvalidHeaderValueException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/MMSPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/MMSPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/MmsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/MmsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/AcknowledgeInd.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/AcknowledgeInd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/Base64.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/Base64.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/CharacterSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/CharacterSets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/DeliveryInd.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/DeliveryInd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/EncodedStringValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/EncodedStringValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/GenericPdu.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/GenericPdu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/MultimediaMessagePdu.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/MultimediaMessagePdu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/NotificationInd.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/NotificationInd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/NotifyRespInd.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/NotifyRespInd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduComposer.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduComposer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduContentTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduContentTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduHeaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduHeaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduPersister.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/PduPersister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/QuotedPrintable.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/QuotedPrintable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/ReadOrigInd.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/ReadOrigInd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/ReadRecInd.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/ReadRecInd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/RetrieveConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/RetrieveConf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/SendConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/SendConf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/SendReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/pdu_alt/SendReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/smil/SmilHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/smil/SmilHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/util_alt/AbstractCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/util_alt/AbstractCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/util_alt/DownloadDrmHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/util_alt/DownloadDrmHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/util_alt/DrmConvertSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/util_alt/DrmConvertSession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/util_alt/PduCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/util_alt/PduCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/util_alt/PduCacheEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/util_alt/PduCacheEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/util_alt/SqliteWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/google/android/mms/util_alt/SqliteWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/ApnUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/ApnUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/BroadcastUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/BroadcastUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/DeliveredReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/DeliveredReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/MmsFileProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/MmsFileProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/MmsReceivedReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/MmsReceivedReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/MmsReceivedService.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/MmsReceivedService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/MmsSentReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/MmsSentReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/SentReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/SentReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/SmsManagerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/SmsManagerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/StatusUpdatedReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/StatusUpdatedReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/StripAccents.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/StripAccents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/com/klinker/android/send_message/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/events/DocumentEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/events/DocumentEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/events/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/events/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/events/EventException.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/events/EventException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/events/EventListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/events/EventListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/events/EventTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/events/EventTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementExclusiveTimeContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementExclusiveTimeContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementLayout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementParallelTimeContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementParallelTimeContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementSequentialTimeContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementSequentialTimeContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementSyncBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementSyncBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementTargetAttributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementTargetAttributes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementTimeContainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementTimeContainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementTimeControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementTimeControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementTimeManipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/ElementTimeManipulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILAnimateColorElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILAnimateColorElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILAnimateElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILAnimateElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILAnimateMotionElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILAnimateMotionElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILAnimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILAnimation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILLayoutElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILLayoutElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILMediaElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILMediaElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILParElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILParElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILRefElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILRefElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILRegionElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILRegionElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILRegionInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILRegionInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILRegionMediaElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILRegionMediaElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILRootLayoutElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILRootLayoutElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILSetElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILSetElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILSwitchElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILSwitchElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILTopLayoutElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/SMILTopLayoutElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/TimeEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/TimeEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/TimeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/smil/TimeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/views/AbstractView.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/views/AbstractView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/views/DocumentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/java/org/w3c/dom/views/DocumentView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc204-mnc04/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc204-mnc04/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc208-mnc01/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc208-mnc01/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc208-mnc10/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc208-mnc10/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc208-mnc15/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc208-mnc15/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc208-mnc20/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc208-mnc20/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc208-mnc26/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc208-mnc26/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc214-mnc01/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc214-mnc01/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc214-mnc03/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc214-mnc03/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc214-mnc07/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc214-mnc07/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc218-mnc05/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc218-mnc05/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc222-mnc01/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc222-mnc01/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc222-mnc08/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc222-mnc08/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc234-mnc10/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc234-mnc10/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc234-mnc11/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc234-mnc11/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc234-mnc15/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc234-mnc15/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc238-mnc02/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc238-mnc02/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc240-mnc01/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc240-mnc01/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc240-mnc04/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc240-mnc04/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc240-mnc08/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc240-mnc08/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc240-mnc24/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc240-mnc24/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc242-mnc01/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc242-mnc01/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc242-mnc02/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc242-mnc02/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc262-mnc07/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc262-mnc07/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc274-mnc02/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc274-mnc02/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc274-mnc03/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc274-mnc03/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc286-mnc01/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc286-mnc01/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc286-mnc03/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc286-mnc03/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc294-mnc01/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc294-mnc01/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc294-mnc02/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc294-mnc02/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc294-mnc03/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc294-mnc03/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc220/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc220/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc221/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc221/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc270/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc270/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc290/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc290/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc320/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc320/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc370/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc370/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc490/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc490/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc500/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc500/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc510/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc510/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc520/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc520/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc610/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc610/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc660/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc660/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc720/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc720/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc780/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc302-mnc780/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc004/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc004/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc005/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc005/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc010/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc010/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc026/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc026/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc040/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc040/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc070/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc070/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc090/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc090/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc120/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc120/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc130/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc130/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc150/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc150/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc170/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc170/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc260/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc260/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc360/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc360/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc380/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc380/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc410/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc410/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc420/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc420/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc450/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc450/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc490/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc490/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc560/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc560/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc580/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc580/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc600/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc600/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc680/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc680/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc750/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc750/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc770/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc770/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc920/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc920/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc980/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc310-mnc980/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc012/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc012/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc070/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc070/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc100/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc100/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc180/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc180/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc220/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc220/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc221/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc221/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc222/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc222/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc223/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc223/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc224/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc224/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc225/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc225/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc226/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc226/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc227/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc227/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc228/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc228/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc229/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc229/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc230/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc230/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc340/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc340/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc370/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc370/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc410/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc410/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc430/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc430/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc440/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc440/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc480/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc480/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc490/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc490/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc580/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc580/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc581/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc581/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc582/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc582/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc583/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc583/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc584/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc584/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc585/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc585/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc586/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc586/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc587/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc587/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc588/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc588/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc589/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc589/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc590/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc590/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc870/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc311-mnc870/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc312-mnc160/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc312-mnc160/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc312-mnc530/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc312-mnc530/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc334-mnc020/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc334-mnc020/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc418-mnc05/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc418-mnc05/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc418-mnc20/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc418-mnc20/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc418-mnc30/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc418-mnc30/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc420-mnc04/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc420-mnc04/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc440-mnc10/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc440-mnc10/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc440-mnc20/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc440-mnc20/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc450-mnc00/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc450-mnc00/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc450-mnc02/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc450-mnc02/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc450-mnc05/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc450-mnc05/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc450-mnc06/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc450-mnc06/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc450-mnc08/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc450-mnc08/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc505-mnc01/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc505-mnc01/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc530-mnc05/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc530-mnc05/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc604-mnc00/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc604-mnc00/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc604-mnc02/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc604-mnc02/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml-mcc647-mnc10/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml-mcc647-mnc10/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml/apns.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml/apns.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/src/main/res/xml/mms_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/library/src/main/res/xml/mms_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/sample/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sample/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/sample/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/HeadlessSmsSendService.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/HeadlessSmsSendService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/LogAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/LogAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/MmsReceivedReceiverImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/MmsReceivedReceiverImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/MmsReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/MmsReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/PermissionActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/PermissionActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/SmsReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/java/com/klinker/android/messaging_sample/SmsReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/res/drawable-xxhdpi/android.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/res/drawable-xxhdpi/android.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/res/values-v21/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sample/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upgrading_for_marshmallow.md" beforeDir="false" afterPath="$PROJECT_DIR$/upgrading_for_marshmallow.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upgrading_for_o.md" beforeDir="false" afterPath="$PROJECT_DIR$/upgrading_for_o.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="ce051715f1e66c2d0d" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="beta" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="C:\Users\pc\Desktop\mmms.jks" />
+    <option name="KEY_ALIAS" value="testing" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YPudyWWF44tBSsZORHwGXSKzOn" />
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="sample" />
+    <property name="ExportApk.ApkPath" value="C:\Users\pc\Desktop\androidDev\beta\sample" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sample/src/main/res/drawable-xxhdpi" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sample" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="sample" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fba8ab77-7b9c-4786-9552-cbca500aab57" name="Default Changelist" comment="" />
+      <created>1582856641350</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582856641350</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

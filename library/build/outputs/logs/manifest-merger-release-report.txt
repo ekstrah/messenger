@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:4:5-63
+application
+ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:6:5-16:19
+provider#com.klinker.android.send_message.MmsFileProvider
+ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:8:9-12:46
+	android:grantUriPermissions
+		ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:11:19-53
+	android:enabled
+		ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:10:19-41
+	android:authorities
+		ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:9:19-73
+	android:exported
+		ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:12:19-43
+	android:name
+		ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:8:19-50
+uses-library#org.apache.http.legacy
+ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:14:9-87
+	android:required
+		ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:14:61-85
+	android:name
+		ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml:14:23-60
+uses-sdk
+INJECTED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml
+INJECTED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml
+		ADDED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pc\Desktop\androidDev\beta\library\src\main\AndroidManifest.xml
